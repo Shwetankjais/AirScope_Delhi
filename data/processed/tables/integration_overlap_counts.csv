@@ -1,0 +1,9 @@
+scenario,observed,model,paired_station_days,paired_start,paired_end
+same_recorded_date,pm10,pm10_ugm3,52626,2022-08-04,2026-10-31
+same_recorded_date,temp,temperature_c,77660,2017-01-01,2026-10-31
+same_recorded_date,rh,humidity_percent,90130,2017-01-01,2026-10-31
+same_recorded_date,ws,wind_ms,86244,2017-01-01,2026-10-31
+weather_labels_are_UTC,pm10,pm10_ugm3,52594,2022-08-05,2026-10-31
+weather_labels_are_UTC,temp,temperature_c,77660,2017-01-01,2026-10-31
+weather_labels_are_UTC,rh,humidity_percent,90130,2017-01-01,2026-10-31
+weather_labels_are_UTC,ws,wind_ms,86244,2017-01-01,2026-10-31

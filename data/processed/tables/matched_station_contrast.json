@@ -1,0 +1,11 @@
+{
+  "high_site": "site_301",
+  "low_site": "site_118",
+  "matched_days": 882,
+  "high_mean_matched": 131.35841959057964,
+  "low_mean_matched": 75.27718974329852,
+  "difference": 56.08122984728112,
+  "block14_ci_low": 45.07525958181467,
+  "block14_ci_high": 66.31868395109865,
+  "selection_caveat": "Extremes selected using the same data; comparison is descriptive, not a prespecified station hypothesis test"
+}

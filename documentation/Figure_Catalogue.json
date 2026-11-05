@@ -1,0 +1,198 @@
+[
+  {
+    "id": "F01_coverage",
+    "title": "The evidence base changes across stations and years",
+    "caption": "Blank cells: no supplied rows. Zero: no PM2.5 values within supplied rows. No monitoring history is invented.",
+    "path": "visualizations/statistical/F01_coverage.png",
+    "category": "statistical"
+  },
+  {
+    "id": "F02_imputation",
+    "title": "Optional interpolation is a sensitivity layer",
+    "caption": "Main results use observed values. Random masked gaps do not establish accuracy during real sensor outages.",
+    "path": "visualizations/statistical/F02_imputation.png",
+    "category": "statistical"
+  },
+  {
+    "id": "F03_distributions",
+    "title": "Pollutant distributions are strongly asymmetric",
+    "caption": "2017\u2013October 2026. Genuine high concentrations remain; zeros are counted but omitted from logarithmic histograms.",
+    "path": "visualizations/pollution/F03_distributions.png",
+    "category": "pollution"
+  },
+  {
+    "id": "F04_pairs",
+    "title": "Particles co-vary, but size-fraction inconsistencies remain",
+    "caption": "Seeded sample of at most 180,000 source hours. NOx is ppb; NO2 is \u00b5g/m\u00b3. Correlation is not a mass balance.",
+    "path": "visualizations/pollution/F04_pairs.png",
+    "category": "pollution"
+  },
+  {
+    "id": "F05_monthly_trends",
+    "title": "Monthly particulate pollution: trend and network coverage",
+    "caption": "Observed station-month means require \u226575% valid days; daily means require \u226518 hours. Network composition varies.",
+    "path": "visualizations/temporal/F05_monthly_trends.png",
+    "category": "temporal"
+  },
+  {
+    "id": "F06_annual_comparable",
+    "title": "Compare the same ten months, while showing station coverage",
+    "caption": "Each station needs all ten qualified monthly means. 2017 has no eligible January\u2013October aggregate under this rule.",
+    "path": "visualizations/temporal/F06_annual_comparable.png",
+    "category": "temporal"
+  },
+  {
+    "id": "F07_seasonality",
+    "title": "The seasonal cycle dominates particulate variability",
+    "caption": "Winter: Dec\u2013Feb (Dec assigned to following winter year); summer: Mar\u2013May; monsoon: Jun\u2013Sep; post-monsoon: Oct\u2013Nov.",
+    "path": "visualizations/temporal/F07_seasonality.png",
+    "category": "temporal"
+  },
+  {
+    "id": "F08_diurnal",
+    "title": "Hourly pollution profiles differ by season",
+    "caption": "Each source site contributes one hour-season mean. These curves cannot establish local commuting peaks until source clock metadata are verified.",
+    "path": "visualizations/temporal/F08_diurnal.png",
+    "category": "temporal"
+  },
+  {
+    "id": "F09_episodes",
+    "title": "Extreme episodes persist across consecutive days",
+    "caption": "Network means require \u22655 sites/day. Episodes: >150 \u00b5g/m\u00b3 for \u22653 consecutive calendar days. Missing days break episodes.",
+    "path": "visualizations/pollution/F09_episodes.png",
+    "category": "pollution"
+  },
+  {
+    "id": "F10_research_aqi",
+    "title": "A limited pollutant subset provides AQI context",
+    "caption": "Not official overall AQI: excludes CO, O3 and Pb; \u22653 sub-indices including PM; \u226518 hours each. Severe shown as \u2265401.",
+    "path": "visualizations/pollution/F10_research_aqi.png",
+    "category": "pollution"
+  },
+  {
+    "id": "F11_older_history",
+    "title": "Older valid observations remain available",
+    "caption": "Selected long-history sources only; monthly sufficiency rules unchanged. No source is extended before its observed history.",
+    "path": "visualizations/temporal/F11_older_history.png",
+    "category": "temporal"
+  },
+  {
+    "id": "F12_daily_maxima",
+    "title": "Daily means conceal short-lived high concentrations",
+    "caption": "Station maxima use observed hours only; variation in within-day measurement coverage affects extreme-value comparisons.",
+    "path": "visualizations/temporal/F12_daily_maxima.png",
+    "category": "temporal"
+  },
+  {
+    "id": "F13_weather_bins",
+    "title": "Weather\u2013pollution associations depend on context",
+    "caption": "Co-reported station-day meteorology; unadjusted bins mix seasons and locations. Whiskers show IQR, not confidence intervals.",
+    "path": "visualizations/weather/F13_weather_bins.png",
+    "category": "weather"
+  },
+  {
+    "id": "F14_correlations",
+    "title": "Co-pollutants share patterns; meteorology adds structure",
+    "caption": "Pairwise-complete station-day data; pair counts exported separately. Dependent records are not independent significance tests.",
+    "path": "visualizations/statistical/F14_correlations.png",
+    "category": "statistical"
+  },
+  {
+    "id": "F15_adjusted_weather",
+    "title": "Adjustment changes the interpretation of weather relationships",
+    "caption": "Left: city daily anomalies, 14-day moving blocks. Right: station-day model, shared 14-day calendar-block clustered intervals.",
+    "path": "visualizations/statistical/F15_adjusted_weather.png",
+    "category": "statistical"
+  },
+  {
+    "id": "F16_pollution_rose",
+    "title": "Wind-sector pollution context",
+    "caption": "Radial scale: median PM2.5 (\u00b5g/m\u00b3). Wind <0.5 m/s omitted. Pooled stations/seasons; direction does not establish source attribution.",
+    "path": "visualizations/weather/F16_pollution_rose.png",
+    "category": "weather"
+  },
+  {
+    "id": "F17_model_timelines",
+    "title": "Meteorology and model air composition have different histories",
+    "caption": "Unique field-signature grids weighted equally. Weather: 2017\u2013Oct 2026. AQI: Aug 2022\u2013Oct 2026; no fabricated earlier values.",
+    "path": "visualizations/weather/F17_model_timelines.png",
+    "category": "weather"
+  },
+  {
+    "id": "F18_model_agreement",
+    "title": "Model values are supplementary estimates, not monitor replacements",
+    "caption": "Actual valid PM10 overlap begins August 2022. Approximate locations and clock assumptions limit agreement interpretation.",
+    "path": "visualizations/weather/F18_model_agreement.png",
+    "category": "weather"
+  },
+  {
+    "id": "F19_weather_distributions",
+    "title": "The meteorological background spans the full study window",
+    "caption": "Distributions of unique-grid mean daily model weather, 2017\u2013October 2026; rainfall is a daily total before spatial averaging.",
+    "path": "visualizations/weather/F19_weather_distributions.png",
+    "category": "weather"
+  },
+  {
+    "id": "F20_station_comparison",
+    "title": "Coverage-screened station comparison, 2023\u20132025",
+    "caption": "Each site has \u226575% valid days in each year. Dates still differ; these are descriptive monitoring-site means, not intrinsic neighbourhood rankings.",
+    "path": "visualizations/spatial/F20_station_comparison.png",
+    "category": "spatial"
+  },
+  {
+    "id": "F21_spatial_map",
+    "title": "Spatial context at supplied approximate locations",
+    "caption": "Coordinates are user supplied and registry-unverified. Gray points have no coverage-qualified comparison; no pollution surface is interpolated.",
+    "path": "visualizations/spatial/F21_spatial_map.png",
+    "category": "spatial"
+  },
+  {
+    "id": "F22_fire_geography",
+    "title": "Regional thermal detections provide broader context",
+    "caption": "VIIRS detections are not unique fires, burned area or crop-burning labels. Hexagons aggregate detections, not emissions.",
+    "path": "visualizations/spatial/F22_fire_geography.png",
+    "category": "spatial"
+  },
+  {
+    "id": "F23_fire_windows",
+    "title": "Fire\u2013pollution comparisons use two observed seasonal windows",
+    "caption": "Delhi pollution clock assumed IST for this sensitivity. Missing fire dates are not zeros; adjusted lag results are exported separately.",
+    "path": "visualizations/temporal/F23_fire_windows.png",
+    "category": "temporal"
+  },
+  {
+    "id": "F24_fire_lags",
+    "title": "Fire associations depend on model controls",
+    "caption": "Unadjusted HAC7 95% intervals. None of eight expanded regional/northwest tests passes BH p<0.05; two windows cannot establish attribution.",
+    "path": "visualizations/statistical/F24_fire_lags.png",
+    "category": "statistical"
+  },
+  {
+    "id": "F25_population_maps",
+    "title": "Population grids provide exposure context, not personal exposure",
+    "caption": "Unknown cell footprints and changing positive-value support prevent unqualified population-weighted pollution estimates.",
+    "path": "visualizations/spatial/F25_population_maps.png",
+    "category": "spatial"
+  },
+  {
+    "id": "F26_population_epochs",
+    "title": "Population epochs remain separate from pollution timelines",
+    "caption": "Points are supplied epochs; connecting lines are guides. All point centres fall within the supplied Delhi boundary.",
+    "path": "visualizations/spatial/F26_population_epochs.png",
+    "category": "spatial"
+  },
+  {
+    "id": "F27_emissions_sectors",
+    "title": "Sector inventories describe emissions structure across available epochs",
+    "caption": "Selected epochs only; connecting segments are guides. Source units/release unverified; shares are not ambient source contributions.",
+    "path": "visualizations/pollution/F27_emissions_sectors.png",
+    "category": "pollution"
+  },
+  {
+    "id": "F28_emissions_changes",
+    "title": "Emission totals and sector shares answer different questions",
+    "caption": "Indexed totals avoid inventing units. Urban-centre emissions geography (2,139 km\u00b2) differs from the supplied Delhi administrative boundary.",
+    "path": "visualizations/pollution/F28_emissions_changes.png",
+    "category": "pollution"
+  }
+]

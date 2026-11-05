@@ -1,0 +1,12 @@
+{
+  "delhi_boundary_features": 1,
+  "india_adm1_features": 36,
+  "road_edges": 500055,
+  "invalid_road_geometries": 0,
+  "empty_road_geometries": 0,
+  "station_points": 58,
+  "station_points_outside_boundary": 1,
+  "boundary_invalid": 0,
+  "major_edges_before_geometry_dedup": 15887,
+  "major_unique_geometries": 14717
+}

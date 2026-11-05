@@ -1,0 +1,9 @@
+clock_scenario,parameter,n_paired_station_days,pearson,spearman,model_minus_station_bias,MAE,qualification
+same_recorded_date,pm10,52626,0.05090050511146044,0.3849112497858417,1.9569780500018197,155.97682648842573,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim
+same_recorded_date,temp,77660,0.9331235383270534,0.9186876411544265,-0.8840408328315329,2.127529840579283,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim
+same_recorded_date,rh,90130,0.7901526726656785,0.8168785011710504,1.6300084191078739,8.282188426473875,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim
+same_recorded_date,ws,86244,0.30405126379895203,0.3622224104119984,1.3768055500704022,1.4897526763950408,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim
+weather_labels_are_UTC,pm10,52594,0.04706220175593716,0.3755653156503188,1.9141001007171015,156.52909070946217,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim
+weather_labels_are_UTC,temp,77660,0.9324982819666922,0.917244765777294,-0.8842472883212745,2.144950830193107,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim
+weather_labels_are_UTC,rh,90130,0.785606162642781,0.8120906674026536,1.628650560770696,8.429191890839634,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim
+weather_labels_are_UTC,ws,86244,0.29835748612244883,0.3564415790950894,1.3766945710813732,1.4910625061888736,Approximate supplied location; timestamp convention unverified; no independent station-level significance claim

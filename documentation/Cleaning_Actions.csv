@@ -1,0 +1,4 @@
+source,action,parameter,count
+Badarpur,quarantine copied source from independent-monitor analysis; preserve all cleaned/raw rows,all,86184
+Pollutants 2017-2026/DTU/Raw_Data_2018_site_118_dtu_delhi_cpcb_1Hr.csv,set physically invalid value to missing,total_rain_counter,1
+Maidan Gharhi,quarantine copied source from independent-monitor analysis; preserve all cleaned/raw rows,all,86184

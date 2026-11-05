@@ -1,0 +1,9 @@
+exposure,lag_days,days,coefficient,ci_low,ci_high,p_HAC7,model,p_BH_eight_tests
+fire_count,0,112,0.13824149118595863,0.031249501809717986,0.2452334805621993,0.0113279151178441,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.0906233209427528
+fire_count,1,108,0.12422275125001986,-0.013707986460687438,0.26215348896072715,0.07753408043908895,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.20675754783757053
+fire_count,2,104,0.007271693051655944,-0.107933322224229,0.12247670832754087,0.9015432162936525,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.9015432162936525
+fire_count,3,101,-0.06374546026788404,-0.14988241711071087,0.022391496574942812,0.14692835805580817,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.23715952254398237
+nw_100_400km_count,0,112,0.09243337448181865,0.006314812813682874,0.17855193614995443,0.035406178505959035,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.14162471402383614
+nw_100_400km_count,1,108,0.07782339871176996,-0.027673781447487306,0.18332057887102723,0.148224701589989,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.23715952254398237
+nw_100_400km_count,2,104,-0.010046183825394794,-0.10441653362659355,0.08432416597580396,0.8347232538512819,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.9015432162936525
+nw_100_400km_count,3,101,-0.03999355034707074,-0.1160505382367325,0.036063437542591024,0.30271864982711993,"Adds wind-direction components, month and quadratic within-window trend; not transport attribution",0.4036248664361599

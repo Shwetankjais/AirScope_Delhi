@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "How has PM2.5 changed across the primary study period?",
+    "parameters": "PM2.5, site, month, year",
+    "evidence": "Station/month-adjusted slope -1.68 \u00b5g/m\u00b3/year (95% CI -2.88 to -0.48); 3,685 qualified station-months, 44 source sites; five-trend BH p=0.0433. A separate 17-site January\u2013October comparison changes from 92.9 in 2019 to 74.3 in 2026 (-20.0%).",
+    "timeline": "January 2017\u2013October 2026; endpoint subset 2019\u20132026",
+    "visualization": "F05_monthly_trends",
+    "interpretation": "The data support a modest decline under the stated coverage and station-adjustment model, while severe seasonal burdens persist.",
+    "environmental_significance": "The data support a modest decline under the stated coverage and station-adjustment model, while severe seasonal burdens persist.",
+    "limitations": "No strict decade-long fixed panel is available. Site fixed effects assume stable offsets; uncertainty uses 20 six-month calendar clusters and is not a causal policy estimate."
+  },
+  {
+    "id": 2,
+    "question": "Is the PM10 trend equally conclusive?",
+    "parameters": "PM10, station/month adjustment",
+    "evidence": "Adjusted slope -2.48 \u00b5g/m\u00b3/year; 95% CI -5.86 to 0.90, BH p=0.236.",
+    "timeline": "January 2017\u2013October 2026",
+    "visualization": "F06_annual_comparable",
+    "interpretation": "The point estimate is downward, but its uncertainty includes no change. A broad claim that every pollutant improved is unsupported.",
+    "environmental_significance": "The point estimate is downward, but its uncertainty includes no change. A broad claim that every pollutant improved is unsupported.",
+    "limitations": "Available-network and station-adjusted analyses give different certainty. Six-month block assumptions and changing monitor coverage remain limitations."
+  },
+  {
+    "id": 3,
+    "question": "How much more polluted is winter than monsoon?",
+    "parameters": "PM2.5, season, site-year",
+    "evidence": "Within matched site-years, winter PM2.5 exceeds monsoon by 126.3 \u00b5g/m\u00b3; year-bootstrap 95% CI 120.2 to 133.3; 285 matched site-years across 9 years.",
+    "timeline": "Sufficiently covered seasons within 2017\u2013October 2026",
+    "visualization": "F07_seasonality",
+    "interpretation": "Seasonal concentration differences are much larger than the estimated annual trend, making timing central to the Delhi pollution story.",
+    "environmental_significance": "Seasonal concentration differences are much larger than the estimated annual trend, making timing central to the Delhi pollution story.",
+    "limitations": "Seasonal definitions are explicit; incomplete boundary winters fail coverage rules. Year resampling cannot remove every interannual dependency."
+  },
+  {
+    "id": 4,
+    "question": "Do recorded-hour profiles show a daily cycle?",
+    "parameters": "PM2.5, recorded hour, season",
+    "evidence": "In 2023\u20132025, equal-site recorded-hour PM2.5 means range from 72.2 \u00b5g/m\u00b3 at hour 16 to 121.9 at hour 23; seasonal profiles are exported separately.",
+    "timeline": "2023\u20132025 descriptive cycle; seasonal figure uses 2017\u20132026",
+    "visualization": "F08_diurnal",
+    "interpretation": "A clear daily structure appears in recorded source time, consistent with varying emissions and atmospheric mixing as hypotheses.",
+    "environmental_significance": "A clear daily structure appears in recorded source time, consistent with varying emissions and atmospheric mixing as hypotheses.",
+    "limitations": "The source timezone is unverified. These hours must not be labelled local morning/evening commuting peaks or proof of temperature inversion."
+  },
+  {
+    "id": 5,
+    "question": "How tightly are PM2.5 and PM10 related?",
+    "parameters": "PM2.5, PM10",
+    "evidence": "Paired daily Spearman \u03c1=0.879, n=107,071 station-days; median PM2.5/PM10 ratio=0.450. 10,446 retained primary-period hours have PM2.5 above simultaneous PM10.",
+    "timeline": "January 2017\u2013October 2026",
+    "visualization": "F04_pairs",
+    "interpretation": "Particles strongly co-vary, while the size-fraction ratio and inconsistent pairs merit explicit quality review.",
+    "environmental_significance": "Particles strongly co-vary, while the size-fraction ratio and inconsistent pairs merit explicit quality review.",
+    "limitations": "Daily pairs are dependent; no naive p-value is reported. Ratios are not chemical source apportionment, and inconsistent pairs were flagged rather than silently removed."
+  },
+  {
+    "id": 6,
+    "question": "Does the wind relationship remain after seasonal adjustment?",
+    "parameters": "PM2.5, co-reported wind speed",
+    "evidence": "City daily anomaly Spearman \u03c1=-0.443; 14-day block 95% CI -0.475 to -0.410; 3,586 city days.",
+    "timeline": "January 2017\u2013October 2026, concurrent co-reported station weather",
+    "visualization": "F15_adjusted_weather",
+    "interpretation": "Higher wind is associated with lower particulate pollution even after station\u2013calendar-month demeaning, consistent with dispersion as an interpretation.",
+    "environmental_significance": "Higher wind is associated with lower particulate pollution even after station\u2013calendar-month demeaning, consistent with dispersion as an interpretation.",
+    "limitations": "Wind height/exposure varies by station; residual confounding and measurement error prevent a causal wind effect estimate."
+  },
+  {
+    "id": 7,
+    "question": "Can the raw temperature correlation be interpreted directly?",
+    "parameters": "PM2.5, temperature, station-month context",
+    "evidence": "Raw station-day \u03c1=-0.571; station-month-demeaned \u03c1=0.035; city anomaly \u03c1=0.047, 14-day CI -0.012 to 0.109. The multivariable model yields a positive conditional temperature association.",
+    "timeline": "January 2017\u2013October 2026",
+    "visualization": "F15_adjusted_weather",
+    "interpretation": "The apparent temperature relationship is strongly adjustment-dependent. A simple cold-weather scatterplot blends seasonality with within-month variation.",
+    "environmental_significance": "The apparent temperature relationship is strongly adjustment-dependent. A simple cold-weather scatterplot blends seasonality with within-month variation.",
+    "limitations": "The multivariable coefficient answers a different conditional question and is not a causal effect; near-surface temperature alone does not establish inversion."
+  },
+  {
+    "id": 8,
+    "question": "Does humidity consistently correspond with higher PM2.5?",
+    "parameters": "PM2.5, relative humidity, season",
+    "evidence": "Raw \u03c1=-0.030; city anomaly \u03c1=-0.056, 14-day CI -0.123 to 0.015. The conditional multivariable RH coefficient is negative.",
+    "timeline": "January 2017\u2013October 2026",
+    "visualization": "F13_weather_bins",
+    "interpretation": "These data do not support a universal positive humidity\u2013PM relationship; the result depends on timescale and adjustment.",
+    "environmental_significance": "These data do not support a universal positive humidity\u2013PM relationship; the result depends on timescale and adjustment.",
+    "limitations": "A weak aggregate relation can hide chemistry, fog and season-specific mechanisms. Derived fog/mist fields cannot validate those mechanisms."
+  },
+  {
+    "id": 9,
+    "question": "Are wet days less polluted within a station and month?",
+    "parameters": "PM2.5, daily summed RF rainfall",
+    "evidence": "866 station-month contrasts meet \u22652 wet days (\u22651 mm) and \u22655 dry days; mean contrast -15.3 \u00b5g/m\u00b3 and median contrast -9.6 \u00b5g/m\u00b3.",
+    "timeline": "January 2017\u2013October 2026 on valid co-reported rainfall days",
+    "visualization": "F13_weather_bins",
+    "interpretation": "Wet days have lower PM2.5 on average even within the same station-month, compatible with wet removal and accompanying weather conditions.",
+    "environmental_significance": "Wet days have lower PM2.5 on average even within the same station-month, compatible with wet removal and accompanying weather conditions.",
+    "limitations": "Wet/dry events are not randomized. Rain counters were excluded; remaining timing, meteorology and missingness differences can confound the comparison."
+  },
+  {
+    "id": 10,
+    "question": "Which sufficiently covered stations differ most in 2023\u20132025?",
+    "parameters": "PM2.5, source site, matched days",
+    "evidence": "Anand Vihar versus DTU: 131.4 versus 75.3 \u00b5g/m\u00b3 across 882 shared valid days; difference 56.1, 14-day CI 45.1 to 66.3.",
+    "timeline": "January 2023\u2013December 2025",
+    "visualization": "F20_station_comparison",
+    "interpretation": "Persistent observed site differences support location-sensitive monitoring and investigation.",
+    "environmental_significance": "Persistent observed site differences support location-sensitive monitoring and investigation.",
+    "limitations": "Extremes were selected after inspecting the same data. Rankings cover 34 qualified sites, not every Delhi location; coordinates are approximate and source identity is not registry-certified."
+  },
+  {
+    "id": 11,
+    "question": "What do the strongest pollution episodes look like?",
+    "parameters": "Daily PM2.5, persistence, reporting-site count",
+    "evidence": "78 episodes exceed the research threshold. The highest-peak episode runs 2017-10-31\u20132017-11-16 (17 days), peaking at 643.0 \u00b5g/m\u00b3. The longest lasts 32 days.",
+    "timeline": "January 2017\u2013October 2026",
+    "visualization": "F09_episodes",
+    "interpretation": "Severe pollution often persists across days rather than appearing only as isolated hourly spikes.",
+    "environmental_significance": "Severe pollution often persists across days rather than appearing only as isolated hourly spikes.",
+    "limitations": "Episodes use >150 \u00b5g/m\u00b3 for \u22653 days and \u22655 sites/day; network composition changes. The threshold is analytical, not an official episode declaration."
+  },
+  {
+    "id": 12,
+    "question": "Are regional fire detections associated with Delhi pollution?",
+    "parameters": "VIIRS detections, PM2.5, temperature, RH, wind and seasonal controls",
+    "evidence": "Basic same-day log1p coefficient 0.317 (HAC7 CI 0.229 to 0.406); 112 paired days, 34-site panel. With wind direction, month and quadratic time, the coefficient falls to 0.138 (CI 0.031 to 0.245); eight-test BH p=0.0906. No expanded test has BH p<0.05.",
+    "timeline": "October\u2013November 2024 and October\u2013November 2025 only",
+    "visualization": "F24_fire_lags",
+    "interpretation": "The positive basic-model association is sensitive to seasonal and wind controls; the expanded tests do not establish a robust independent fire relationship.",
+    "environmental_significance": "The positive basic-model association is sensitive to seasonal and wind controls; the expanded tests do not establish a robust independent fire relationship.",
+    "limitations": "Only two windows, uncertain acquisition completeness, clock assumptions and residual confounding limit inference. Detections are not crop-burning labels, emissions estimates or proof of transport to Delhi."
+  },
+  {
+    "id": 13,
+    "question": "Can model PM10 replace station observations?",
+    "parameters": "Station PM10, supplied model PM10",
+    "evidence": "52,626 paired days: Spearman \u03c1=0.385, Pearson r=0.051, MAE=156.0 \u00b5g/m\u00b3 under the same-recorded-date assumption. Distinct signatures: 56 meteorological and 21 air-composition series across 58 locations.",
+    "timeline": "Actual August 2022\u2013October 2026 valid overlap",
+    "visualization": "F18_model_agreement",
+    "interpretation": "The supplied model PM10 should be treated as supplementary regional context rather than a substitute for local monitoring.",
+    "environmental_significance": "The supplied model PM10 should be treated as supplementary regional context rather than a substitute for local monitoring.",
+    "limitations": "Approximate coordinates, source-model identity, unresolved clocks, model extremes and shared signatures all affect agreement; signatures are not verified model-grid IDs."
+  },
+  {
+    "id": 14,
+    "question": "Which sector dominates the supplied PM2.5 inventory?",
+    "parameters": "Urban-centre PM2.5 emissions by sector",
+    "evidence": "Industry contributes 67.8% of the sum of supplied PM2.5 sector inventory values in 2024.",
+    "timeline": "2024 sector snapshot, with separate 1975\u20132024 epoch history",
+    "visualization": "F27_emissions_sectors",
+    "interpretation": "The supplied urban-centre inventory suggests a sector priority for contextual investigation.",
+    "environmental_significance": "The supplied urban-centre inventory suggests a sector priority for contextual investigation.",
+    "limitations": "Units and exact EDGAR/GHSL release are unverified; urban-centre boundaries differ from Delhi administrative geography. Inventory shares do not apportion measured ambient PM."
+  },
+  {
+    "id": 15,
+    "question": "What population context is available for exposure research?",
+    "parameters": "Population grid values, coordinates, epoch",
+    "evidence": "Supplied Population sums are 20.70 million (2020) and 23.57 million (2030). All supplied point centres fall within the Delhi boundary; grid row counts vary by epoch.",
+    "timeline": "Supplied epochs 2010, 2015, 2020, 2025 and 2030",
+    "visualization": "F26_population_epochs",
+    "interpretation": "The spatial concentration of population provides useful context for future exposure modelling.",
+    "environmental_significance": "The spatial concentration of population provides useful context for future exposure modelling.",
+    "limitations": "Counts are conditional on GHSL provenance and grid units. If GHS-POP R2023A, 2025/2030 are projections. No interpolated population history or personal exposure estimate is claimed."
+  }
+]

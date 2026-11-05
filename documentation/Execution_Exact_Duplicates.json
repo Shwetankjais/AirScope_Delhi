@@ -1,0 +1,222 @@
+[
+  {
+    "sha256": "ee963fa087209d5fa5aa45d63f2de98f2f4a98c3cec7d674a9a8a38342df39b4",
+    "paths": [
+      "Pollutants 2017-2026/Aanad Vihar/Raw_Data_2014_site_301_anand_vihar_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Mandir Marg/Raw_Data_2014_site_122_mandir_marg_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2014_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Sirifort/Raw_Data_2014_site_119_sirifort_delhi_cpcb_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "7b08280435ecbff48b3a820c9009758092bbebc86ecc4b0efc0bd86ec30f0458",
+    "paths": [
+      "Pollutants 2017-2026/Alipur/Raw_Data_2017_site_5024_alipur_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Ashok Vihar/Raw_Data_2017_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Bawana/Raw_Data_2017_site_1560_bawana_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Chandni Chowk/Raw_Data_2017_site_5393_chandni_chowk_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2017_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Dwarka/Raw_Data_2017_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Jahangiripuri/Raw_Data_2017_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2017_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2017_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2017_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2017_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Mundka/Raw_Data_2017_site_1561_mundka_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Naafagarh/Raw_Data_2017_site_1427_najafgarh_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Narela/Raw_Data_2017_site_1426_narela_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Nehru Nagar/Raw_Data_2017_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2017_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2017_site_1431_patparganj_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Pusa/Raw_Data_2017_site_1563_pusa_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Rohini/Raw_Data_2017_site_1430_rohini_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2017_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Sonia Vihar/Raw_Data_2017_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Vivek Vihar/Raw_Data_2017_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Wazirpur/Raw_Data_2017_site_1434_wazirpur_delhi_dpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "4257ddec3a5c7b6e4a0dde5766ce54e1f4cd01b25772ba444994f05ea3236490",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2017_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2017_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "34652abf0ba820097be6d239f7e04b7bb6d3693dbbcd3cb3a80a963ae3cb81a6",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2018_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2018_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "e12bd6031a7ce59c800cdbed589726eb0fa3bc970a97c8f9f94de3b86380307f",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2019_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2019_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "1312d538fca143de72781a9fab5b0644944268ce0d507bb88bd0511b898265c0",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2020_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2020_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "6fa684a5c51785be17ccbe0d991e50c5379b7c0173a39ce5f3a212c82f9148dd",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2021_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2021_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "2c34f96b4765363a3f3a071a379a25cf6db3d68a8957b9fdefbad30635990f10",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2022_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2022_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "164682a4ace70d5ff36f744cf5e32f7d1248279343794002c7e85c08fba1c823",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2023_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2023_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "bccb629377ef763f9d530a407b87472cacb7d63903e1481cde70008111f168cf",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2024_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2024_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "28b8ce9b52d31f730941c896bf76f9d2362bae84c5ff6b9e53f7fcf6eeb3441e",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2025_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2025_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "155d29892cad131edd85ba954474220485d7658294ccded2a145bfdebbae3d6d",
+    "paths": [
+      "Pollutants 2017-2026/Aya Nagar/Raw_Data_2026_site_108_aya_nagar_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Badarpur/Raw_Data_2026_site_100409_badarpurdelhidpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "61304ff559d6ce0ec6732ca494b06c3adb0356944a8469c12305c1089066e923",
+    "paths": [
+      "Pollutants 2017-2026/Chandni Chowk/Raw_Data_2018_site_5393_chandni_chowk_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2018_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2018_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "48ce19b026b015495b0084b0613a17b28d593e6cbfa1c8cff4ea7a284909c007",
+    "paths": [
+      "Pollutants 2017-2026/Chandni Chowk/Raw_Data_2019_site_5393_chandni_chowk_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2019_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2019_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "182976d3cd13db07820dd5e5112c3d6bb9549564908d09893fc4bc712aac8d89",
+    "paths": [
+      "Pollutants 2017-2026/Commonn Wealth Sports Complex/Raw_Data_2025_site_6079_commonwealth_sports_complex_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/IGNOU_Maidan Garhi/Raw_Data_2025_site_6080_ignou_maidan_garhi_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/NSUT Jaffarpur/Raw_Data_2025_site_6077_nsut_jaffarpur_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Talkatora Garden/Raw_Data_2025_site_6081_talkatora_garden_delhi_dpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "2c3cbe9ffddc266c268ad5927bc5aa1a623d8b8df78bd44ba97c8d27807db6c1",
+    "paths": [
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2020_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2020_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "19f2673960468711065fc0b25b22e92a7b63391784c4885dbe25227df4759123",
+    "paths": [
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2021_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2021_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "eb23265b1fbdb4704b718599c917e9f6d231452b1e11eb7f17a9dd55cff97528",
+    "paths": [
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2022_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2022_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "f55d957332b6f77789574e0efda7f2e5e327fbb34756dcf86f2fa4307e440481",
+    "paths": [
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2023_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2023_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "3d8ca2662831d4a1e49e546aacf09085a70a1eeb79e69cd1c64ffe6181084116",
+    "paths": [
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2024_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2024_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "b4e8f475db44cd7d27136eaf8abeecc40251ee08bd155eb12a1db4b42dbd5eae",
+    "paths": [
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2025_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2025_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "59f30213682d83ba0ce6fc69aa215626207bc55474bf8a9179d19c657e64297c",
+    "paths": [
+      "Pollutants 2017-2026/Lodhi Road/Raw_Data_2026_site_5395_lodhi_road_delhi_iitm_1Hr.csv",
+      "Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2026_site_5395_lodhi_road_delhi_iitm_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "0208fa71f62c17969f7d8f1d7973f55cfb1bc2d64810f258be82b9bac0ef959e",
+    "paths": [
+      "Pollutants 2017-2026/Mandir Marg/Raw_Data_2009_site_122_mandir_marg_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Mandir Marg/Raw_Data_2010_site_122_mandir_marg_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2009_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2010_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/R K Puram/Raw_Data_2009_site_124_r_k_puram_delhi_dpcc_1Hr.csv",
+      "Pollutants 2017-2026/R K Puram/Raw_Data_2010_site_124_r_k_puram_delhi_dpcc_1Hr.csv"
+    ]
+  },
+  {
+    "sha256": "b06a2f50365e5393a0e2e2e27744db7ca78a57be71e864e08fc5299cfb014af1",
+    "paths": [
+      "Weather 2017-2026/CRRI_Mathura_Road_2017_2026.csv",
+      "Weather 2017-2026/Nehru_Nagar_2017_2026.csv"
+    ]
+  },
+  {
+    "sha256": "e647e3687f838f66a9509e9a98d84a3149a28123ce67fb074e7cc1a19df57b5c",
+    "paths": [
+      "Weather 2017-2026/RK_Puram_2017_2026.csv",
+      "Weather 2017-2026/Sirifort_2017_2026.csv"
+    ]
+  },
+  {
+    "sha256": "41fd4417a62a6e5456da31a57bf468afdb109bd62d6127d077eba33e25c5cb11",
+    "paths": [
+      "delhi_air_project/maps/delhi_full_view.html",
+      "delhi_air_project/maps/delhi_offline_map.html"
+    ]
+  },
+  {
+    "sha256": "5183bcb9a687c05a87db77822d3a0c0eb36ccbfc73ecaf66e2f9e2f6a7f6da41",
+    "paths": [
+      "delhi_air_project/scripts/07_full_view.py",
+      "delhi_air_project/scripts/07_offline_map.py"
+    ]
+  }
+]

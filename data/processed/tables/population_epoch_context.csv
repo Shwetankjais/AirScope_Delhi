@@ -1,0 +1,6 @@
+epoch,grid_points,population_field_sum_all,population_field_sum_within_boundary,points_outside_boundary,percent_field_outside_boundary,classification,units
+2010,91459,16867980.194114693,16867980.194114693,0,0.0,modelled estimate if GHS-POP R2023A,supplied Population values; inhabitants/cell conditional on unverified GHSL provenance
+2015,95873,18549434.78011606,18549434.78011606,0,0.0,modelled estimate if GHS-POP R2023A,supplied Population values; inhabitants/cell conditional on unverified GHSL provenance
+2020,98823,20696794.592975166,20696794.592975166,0,0.0,modelled estimate if GHS-POP R2023A,supplied Population values; inhabitants/cell conditional on unverified GHSL provenance
+2025,102595,22236588.752038904,22236588.752038904,0,0.0,projection if GHS-POP R2023A,supplied Population values; inhabitants/cell conditional on unverified GHSL provenance
+2030,105511,23568739.5026038,23568739.5026038,0,0.0,projection if GHS-POP R2023A,supplied Population values; inhabitants/cell conditional on unverified GHSL provenance

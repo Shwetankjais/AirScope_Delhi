@@ -1,0 +1,61 @@
+year,category,station_days
+2017,Good,57
+2017,Satisfactory,282
+2017,Moderate,536
+2017,Poor,347
+2017,Very poor,736
+2017,Severe,293
+2018,Good,235
+2018,Satisfactory,1389
+2018,Moderate,2934
+2018,Poor,1675
+2018,Very poor,2745
+2018,Severe,1203
+2019,Good,391
+2019,Satisfactory,1936
+2019,Moderate,3937
+2019,Poor,2154
+2019,Very poor,2678
+2019,Severe,1277
+2020,Good,891
+2020,Satisfactory,2795
+2020,Moderate,3613
+2020,Poor,1310
+2020,Very poor,2503
+2020,Severe,933
+2021,Good,459
+2021,Satisfactory,2297
+2021,Moderate,3901
+2021,Poor,1502
+2021,Very poor,2927
+2021,Severe,1245
+2022,Good,545
+2022,Satisfactory,1979
+2022,Moderate,3592
+2022,Poor,2331
+2022,Very poor,3343
+2022,Severe,731
+2023,Good,342
+2023,Satisfactory,1952
+2023,Moderate,4694
+2023,Poor,1583
+2023,Very poor,2701
+2023,Severe,1129
+2024,Good,476
+2024,Satisfactory,1961
+2024,Moderate,4558
+2024,Poor,1996
+2024,Very poor,2967
+2024,Severe,1045
+2025,Good,374
+2025,Satisfactory,2545
+2025,Moderate,4717
+2025,Poor,1650
+2025,Very poor,2803
+2025,Severe,1012
+2026,Good,364
+2026,Satisfactory,2050
+2026,Moderate,6284
+2026,Poor,1817
+2026,Very poor,1341
+2026,Severe,191

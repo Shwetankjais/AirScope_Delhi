@@ -1,0 +1,547 @@
+path,family,rows,columns,start,end,resolution,site_id,folder,analysis_eligible,missing_pct_original_numeric
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2012_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,2928,25,2012-09-01,2012-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,44.83578096539162
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2013_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,83.89507229832573
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2014_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2014-01-01,2014-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,95.83333333333334
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2015_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,51.9078196347032
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2016_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,40.88778840315726
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2017_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,59.820205479452056
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2018_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,40.616914003044144
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2019_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,29.808314307458144
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2020_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,36.26527398299939
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2021_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,31.501141552511413
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2022_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,29.34836377473364
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2023_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,38.35996955859969
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2024_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,35.77811930783242
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2025_site_301_anand_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_301,Aanad Vihar,True,29.340277777777786
+Pollutants 2017-2026/Aanad Vihar/Raw_Data_2026_site_301_anand_vihar_delhi_dpcc_1Hr (1).csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_301,Aanad Vihar,True,26.00340369152047
+Pollutants 2017-2026/Alipur/Raw_Data_2017_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_5024,Alipur,True,95.83333333333334
+Pollutants 2017-2026/Alipur/Raw_Data_2018_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_5024,Alipur,True,86.13441780821917
+Pollutants 2017-2026/Alipur/Raw_Data_2019_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_5024,Alipur,True,32.017694063926946
+Pollutants 2017-2026/Alipur/Raw_Data_2020_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_5024,Alipur,True,29.15860276259867
+Pollutants 2017-2026/Alipur/Raw_Data_2021_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_5024,Alipur,True,26.77273592085236
+Pollutants 2017-2026/Alipur/Raw_Data_2022_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_5024,Alipur,True,23.15686834094368
+Pollutants 2017-2026/Alipur/Raw_Data_2023_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_5024,Alipur,True,24.41495433789954
+Pollutants 2017-2026/Alipur/Raw_Data_2024_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_5024,Alipur,True,21.217554644808743
+Pollutants 2017-2026/Alipur/Raw_Data_2025_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_5024,Alipur,True,22.8714802130898
+Pollutants 2017-2026/Alipur/Raw_Data_2026_site_5024_alipur_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_5024,Alipur,True,20.095486111111114
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2017_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,95.83333333333334
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2018_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,29.045852359208528
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2019_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,22.243626331811264
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2020_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,22.82037416514876
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2021_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,23.089326484018265
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2022_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,23.288146879756475
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2023_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,26.171993911719937
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2024_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,21.88353825136612
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2025_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1420,Ashok Vihar,True,21.94063926940639
+Pollutants 2017-2026/Ashok Vihar/Raw_Data_2026_site_1420_ashok_vihar_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1420,Ashok Vihar,True,13.956277412280702
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2017_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_108,Aya Nagar,True,85.41619101978691
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2018_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_108,Aya Nagar,True,67.68455098934551
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2019_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_108,Aya Nagar,True,68.28481735159818
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2020_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_108,Aya Nagar,True,67.49013357619914
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2021_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_108,Aya Nagar,True,68.09218036529681
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2022_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_108,Aya Nagar,True,68.60207382039573
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2023_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_108,Aya Nagar,True,68.37138508371385
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2024_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_108,Aya Nagar,True,63.41169550698239
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2025_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_108,Aya Nagar,True,66.21622907153728
+Pollutants 2017-2026/Aya Nagar/Raw_Data_2026_site_108_aya_nagar_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_108,Aya Nagar,True,73.2336211622807
+Pollutants 2017-2026/Badarpur/Raw_Data_2017_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_100409,Badarpur,False,85.41619101978691
+Pollutants 2017-2026/Badarpur/Raw_Data_2018_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_100409,Badarpur,False,67.68455098934551
+Pollutants 2017-2026/Badarpur/Raw_Data_2019_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_100409,Badarpur,False,68.28481735159818
+Pollutants 2017-2026/Badarpur/Raw_Data_2020_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_100409,Badarpur,False,67.49013357619914
+Pollutants 2017-2026/Badarpur/Raw_Data_2021_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_100409,Badarpur,False,68.09218036529681
+Pollutants 2017-2026/Badarpur/Raw_Data_2022_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_100409,Badarpur,False,68.60207382039573
+Pollutants 2017-2026/Badarpur/Raw_Data_2023_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_100409,Badarpur,False,68.37138508371385
+Pollutants 2017-2026/Badarpur/Raw_Data_2024_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_100409,Badarpur,False,63.41169550698239
+Pollutants 2017-2026/Badarpur/Raw_Data_2025_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_100409,Badarpur,False,66.21622907153728
+Pollutants 2017-2026/Badarpur/Raw_Data_2026_site_100409_badarpurdelhidpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_100409,Badarpur,False,73.2336211622807
+Pollutants 2017-2026/Bawana/Raw_Data_2017_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1560,Bawana,True,95.83333333333334
+Pollutants 2017-2026/Bawana/Raw_Data_2018_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1560,Bawana,True,61.0335806697108
+Pollutants 2017-2026/Bawana/Raw_Data_2019_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1560,Bawana,True,30.81525875190259
+Pollutants 2017-2026/Bawana/Raw_Data_2020_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1560,Bawana,True,30.9355077413479
+Pollutants 2017-2026/Bawana/Raw_Data_2021_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1560,Bawana,True,31.031678082191775
+Pollutants 2017-2026/Bawana/Raw_Data_2022_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1560,Bawana,True,31.01740867579909
+Pollutants 2017-2026/Bawana/Raw_Data_2023_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1560,Bawana,True,31.71851217656012
+Pollutants 2017-2026/Bawana/Raw_Data_2024_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1560,Bawana,True,21.92433211900425
+Pollutants 2017-2026/Bawana/Raw_Data_2025_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1560,Bawana,True,21.78700532724505
+Pollutants 2017-2026/Bawana/Raw_Data_2026_site_1560_bawana_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1560,Bawana,True,15.83687408625731
+Pollutants 2017-2026/Burari/Raw_Data_2026_site_100408_buraridelhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100408,Burari,True,56.88844086021506
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2017_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_104,Burari Crossing,True,84.77977549467276
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2018_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_104,Burari Crossing,True,77.41818873668188
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2019_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_104,Burari Crossing,True,69.80593607305936
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2020_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_104,Burari Crossing,True,95.83333333333334
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2021_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_104,Burari Crossing,True,92.81487823439876
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2022_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_104,Burari Crossing,True,78.67437214611871
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2023_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_104,Burari Crossing,True,70.31392694063926
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2024_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_104,Burari Crossing,True,67.69932073466909
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2025_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_104,Burari Crossing,True,70.06326103500761
+Pollutants 2017-2026/Burari Crossing/Raw_Data_2026_site_104_burari_crossing_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_104,Burari Crossing,True,71.70024671052632
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2017_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,81.91685692541859
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2018_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,54.637081430745816
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2019_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,61.82600837138508
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2020_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,66.93135245901641
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2021_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,68.87604642313546
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2022_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,67.8025114155251
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2023_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,69.09484398782344
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2024_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,72.6960951730419
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2025_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_103,CRRI Mathura,True,67.28786149162862
+Pollutants 2017-2026/CRRI Mathura/Raw_Data_2026_site_103_crri_mathura_road_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_103,CRRI Mathura,True,71.62429184941521
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2017_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,95.83333333333334
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2018_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,95.83333333333334
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2019_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,95.83333333333334
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2020_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,85.8625531268974
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2021_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,24.686548706240487
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2022_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,54.2570395738204
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2023_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,74.04014459665143
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2024_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,45.208617941712205
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2025_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_5393,Chandni Chowk,True,27.2574200913242
+Pollutants 2017-2026/Chandni Chowk/Raw_Data_2026_site_5393_chandni_chowk_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_5393,Chandni Chowk,True,25.296966374269008
+Pollutants 2017-2026/Chhawla/Raw_Data_2026_site_100410_chhawladelhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100410,Chhawla,True,64.83534946236558
+Pollutants 2017-2026/Commonn Wealth Sports Complex/Raw_Data_2025_site_6079_commonwealth_sports_complex_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_6079,Commonn Wealth Sports Complex,True,95.83333333333334
+Pollutants 2017-2026/Commonn Wealth Sports Complex/Raw_Data_2026_site_6079_commonwealth_sports_complex_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_6079,Commonn Wealth Sports Complex,True,29.740611293859647
+Pollutants 2017-2026/DTU/Raw_Data_2009_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2009-01-01,2009-12-31 23:00:00,hourly,site_118,DTU,True,71.94111491628615
+Pollutants 2017-2026/DTU/Raw_Data_2010_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2010-01-01,2010-12-31 23:00:00,hourly,site_118,DTU,True,78.23249619482496
+Pollutants 2017-2026/DTU/Raw_Data_2011_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2011-01-01,2011-12-31 23:00:00,hourly,site_118,DTU,True,72.06525875190259
+Pollutants 2017-2026/DTU/Raw_Data_2012_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_118,DTU,True,72.88583409228902
+Pollutants 2017-2026/DTU/Raw_Data_2013_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_118,DTU,True,87.3187785388128
+Pollutants 2017-2026/DTU/Raw_Data_2014_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2014-01-01,2014-12-31 23:00:00,hourly,site_118,DTU,True,84.97764459665143
+Pollutants 2017-2026/DTU/Raw_Data_2015_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_118,DTU,True,90.8675799086758
+Pollutants 2017-2026/DTU/Raw_Data_2016_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_118,DTU,True,90.79054720704312
+Pollutants 2017-2026/DTU/Raw_Data_2017_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_118,DTU,True,69.06440258751903
+Pollutants 2017-2026/DTU/Raw_Data_2018_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_118,DTU,True,41.85216894977168
+Pollutants 2017-2026/DTU/Raw_Data_2019_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_118,DTU,True,31.098744292237445
+Pollutants 2017-2026/DTU/Raw_Data_2020_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_118,DTU,True,31.87993321190043
+Pollutants 2017-2026/DTU/Raw_Data_2021_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_118,DTU,True,33.54832572298325
+Pollutants 2017-2026/DTU/Raw_Data_2022_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_118,DTU,True,47.83580669710808
+Pollutants 2017-2026/DTU/Raw_Data_2023_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_118,DTU,True,48.83704337899543
+Pollutants 2017-2026/DTU/Raw_Data_2024_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_118,DTU,True,36.58640710382513
+Pollutants 2017-2026/DTU/Raw_Data_2025_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_118,DTU,True,31.080669710806696
+Pollutants 2017-2026/DTU/Raw_Data_2026_site_118_dtu_delhi_cpcb_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_118,DTU,True,18.39078490497076
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2017_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,95.83333333333334
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2018_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,32.31449771689498
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2019_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,23.619672754946727
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2020_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,23.38057832422587
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2021_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,22.88955479452055
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2022_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,22.88289573820396
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2023_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,23.868436073059364
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2024_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,21.831360048573163
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2025_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,22.00009512937595
+Pollutants 2017-2026/Dr. Karni Singh Shooting Range/Raw_Data_2026_site_1421_dr_karni_singh_shooting_range_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1421,Dr. Karni Singh Shooting Range,True,14.474255299707602
+Pollutants 2017-2026/Dwarka/Raw_Data_2017_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1422,Dwarka,True,95.83333333333334
+Pollutants 2017-2026/Dwarka/Raw_Data_2018_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1422,Dwarka,True,29.59712709284627
+Pollutants 2017-2026/Dwarka/Raw_Data_2019_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1422,Dwarka,True,22.10521308980213
+Pollutants 2017-2026/Dwarka/Raw_Data_2020_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1422,Dwarka,True,23.00679265330905
+Pollutants 2017-2026/Dwarka/Raw_Data_2021_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1422,Dwarka,True,22.612252663622527
+Pollutants 2017-2026/Dwarka/Raw_Data_2022_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1422,Dwarka,True,22.974695585996955
+Pollutants 2017-2026/Dwarka/Raw_Data_2023_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1422,Dwarka,True,23.64393074581431
+Pollutants 2017-2026/Dwarka/Raw_Data_2024_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1422,Dwarka,True,21.359384486945963
+Pollutants 2017-2026/Dwarka/Raw_Data_2025_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1422,Dwarka,True,21.77654109589041
+Pollutants 2017-2026/Dwarka/Raw_Data_2026_site_1422_dwarkasector_8_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1422,Dwarka,True,13.625616776315788
+Pollutants 2017-2026/Ghoga/Raw_Data_2026_site_100418_ghoga_delhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100418,Ghoga,True,67.1146953405018
+Pollutants 2017-2026/Ghummanhera/Raw_Data_2026_site_100413_ghummanhera_delhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100413,Ghummanhera,True,70.91733870967741
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2017_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,86.93445585996956
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2018_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,68.61491628614917
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2019_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,70.08514079147639
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2020_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,68.17746281117184
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2021_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,77.22507610350077
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2022_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,67.43055555555556
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2023_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,67.34969558599695
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2024_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,66.94985200364299
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2025_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_106,IGI Airport T3,True,71.8783295281583
+Pollutants 2017-2026/IGI Airport T3/Raw_Data_2026_site_106_igi_airport_t3_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_106,IGI Airport T3,True,72.13598775584794
+Pollutants 2017-2026/IGNOU_Maidan Garhi/Raw_Data_2025_site_6080_ignou_maidan_garhi_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_6080,IGNOU_Maidan Garhi,True,95.83333333333334
+Pollutants 2017-2026/IGNOU_Maidan Garhi/Raw_Data_2026_site_6080_ignou_maidan_garhi_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_6080,IGNOU_Maidan Garhi,True,31.829655519005843
+Pollutants 2017-2026/IIT Delhi/Raw_Data_2025_site_6060_iit_delhi_delhi_iitm_1Hr.csv,pollutants,1464,25,2025-11-01,2025-12-31 23:00:00,hourly,site_6060,IIT Delhi,True,85.91473132969035
+Pollutants 2017-2026/IIT Delhi/Raw_Data_2026_site_6060_iit_delhi_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_6060,IIT Delhi,True,71.95438139619883
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2017_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,84.39402587519025
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2018_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,56.237633181126334
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2019_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,56.66000761035007
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2020_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,56.2846273527626
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2021_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,56.173420852359214
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2022_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,55.22973744292238
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2023_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,54.76598173515982
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2024_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,54.43704462659381
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2025_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_109,IMD Lodhi,True,69.64326484018265
+Pollutants 2017-2026/IMD Lodhi/Raw_Data_2026_site_109_imd_lodhi_road_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_109,IMD Lodhi,True,71.3575932017544
+Pollutants 2017-2026/ITO/Raw_Data_2009_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2009-01-01,2009-12-31 23:00:00,hourly,site_117,ITO,True,83.23630136986301
+Pollutants 2017-2026/ITO/Raw_Data_2010_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2010-01-01,2010-12-31 23:00:00,hourly,site_117,ITO,True,80.24543378995433
+Pollutants 2017-2026/ITO/Raw_Data_2011_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2011-01-01,2011-12-31 23:00:00,hourly,site_117,ITO,True,79.54861111111113
+Pollutants 2017-2026/ITO/Raw_Data_2012_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_117,ITO,True,84.83084775349118
+Pollutants 2017-2026/ITO/Raw_Data_2013_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_117,ITO,True,86.09113394216132
+Pollutants 2017-2026/ITO/Raw_Data_2014_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,7344,25,2014-03-01,2014-12-31 23:00:00,hourly,site_117,ITO,True,83.04625090777051
+Pollutants 2017-2026/ITO/Raw_Data_2015_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_117,ITO,True,82.74162861491628
+Pollutants 2017-2026/ITO/Raw_Data_2016_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_117,ITO,True,95.21715619307832
+Pollutants 2017-2026/ITO/Raw_Data_2017_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_117,ITO,True,81.07924277016743
+Pollutants 2017-2026/ITO/Raw_Data_2019_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_117,ITO,True,61.473078386605785
+Pollutants 2017-2026/ITO/Raw_Data_2020_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_117,ITO,True,61.4735124468731
+Pollutants 2017-2026/ITO/Raw_Data_2021_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_117,ITO,True,62.945681126331806
+Pollutants 2017-2026/ITO/Raw_Data_2022_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_117,ITO,True,60.40572678843227
+Pollutants 2017-2026/ITO/Raw_Data_2023_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_117,ITO,True,61.42551369863013
+Pollutants 2017-2026/ITO/Raw_Data_2024_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_117,ITO,True,59.37310261080753
+Pollutants 2017-2026/ITO/Raw_Data_2025_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_117,ITO,True,59.29414003044139
+Pollutants 2017-2026/ITO/Raw_Data_2026_site_117_ito_delhi_cpcb_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_117,ITO,True,49.08054641812865
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2017_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,95.83333333333334
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2018_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,29.55812404870624
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2019_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,22.95995053272451
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2020_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,27.74694520340012
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2021_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,28.659627092846275
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2022_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,27.588945966514466
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2023_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,28.460806697108072
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2024_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,24.076920157862777
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2025_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1423,Jahangiripuri,True,23.31383181126332
+Pollutants 2017-2026/Jahangiripuri/Raw_Data_2026_site_1423_jahangirpuri_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1423,Jahangiripuri,True,15.235517178362576
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2017_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,95.83333333333334
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2018_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,30.24638508371385
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2019_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,23.19016362252663
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2020_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,24.601073922282936
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2021_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,23.760464231354646
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2022_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,25.143169710806696
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2023_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,27.56611491628615
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2024_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,23.88196341833637
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2025_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,23.14973363774734
+Pollutants 2017-2026/Jawaharlal Nehru Stadium/Raw_Data_2026_site_1424_jawaharlal_nehru_stadium_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1424,Jawaharlal Nehru Stadium,True,17.14581048976608
+Pollutants 2017-2026/Jharoda Kalan/Raw_Data_2026_site_100412_jharoda_kalan_delhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100412,Jharoda Kalan,True,65.87141577060932
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2017_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,95.83333333333334
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2018_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,95.83333333333334
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2019_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,95.83333333333334
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2020_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,89.05064131754706
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2021_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,52.68122146118722
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2022_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,75.52844368340944
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2023_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,88.30812404870623
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2024_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,70.96377884031571
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2025_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_5395,Lodhi Road,True,63.53310502283105
+Pollutants 2017-2026/Lodhi Road/Raw_Data_2026_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_5395,Lodhi Road,True,98.49860654239764
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2017_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,95.83333333333334
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2018_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,95.83333333333334
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2019_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,95.83333333333334
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2020_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,89.05064131754706
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2021_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,52.68122146118722
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2022_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,75.52844368340944
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2023_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,88.30812404870623
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2024_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,70.96377884031571
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2025_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,63.53310502283105
+Pollutants 2017-2026/Maidan Gharhi/Raw_Data_2026_site_5395_lodhi_road_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_5395,Maidan Gharhi,False,98.49860654239764
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2017_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,95.83333333333334
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2018_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,30.683504566210047
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2019_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,22.57800608828006
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2020_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,22.55094489981785
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2021_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,22.22079528158295
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2022_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,22.558504566210047
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2023_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,24.218036529680365
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2024_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,23.423743928354583
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2025_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,21.93302891933029
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2026_site_100407_maidan_garhi_delhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100407,Major Dhyan Chand National Stadium,True,65.12656810035841
+Pollutants 2017-2026/Major Dhyan Chand National Stadium/Raw_Data_2026_site_1425_major_dhyan_chand_national_stadium_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1425,Major Dhyan Chand National Stadium,True,14.363463998538013
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2009_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,0,25,,,empty/header only,site_122,Mandir Marg,True,
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2010_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,0,25,,,empty/header only,site_122,Mandir Marg,True,
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2011_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,5880,25,2011-05-01,2011-12-31 23:00:00,hourly,site_122,Mandir Marg,True,64.77607709750566
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2012_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_122,Mandir Marg,True,49.74574984820886
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2013_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_122,Mandir Marg,True,86.31992009132419
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2014_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2014-01-01,2014-12-31 23:00:00,hourly,site_122,Mandir Marg,True,95.83333333333334
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2015_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_122,Mandir Marg,True,50.148877473363775
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2016_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_122,Mandir Marg,True,46.01026487553128
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2017_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_122,Mandir Marg,True,30.34864916286149
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2018_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_122,Mandir Marg,True,25.40572678843227
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2019_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_122,Mandir Marg,True,22.699296042617963
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2020_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_122,Mandir Marg,True,28.989735124468723
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2021_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_122,Mandir Marg,True,25.13175418569254
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2022_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_122,Mandir Marg,True,20.993150684931507
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2023_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_122,Mandir Marg,True,22.74495814307458
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2024_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_122,Mandir Marg,True,33.56102003642987
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2025_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_122,Mandir Marg,True,29.624238964992397
+Pollutants 2017-2026/Mandir Marg/Raw_Data_2026_site_122_mandir_marg_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_122,Mandir Marg,True,35.92208059210527
+Pollutants 2017-2026/Mundka/Raw_Data_2017_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1561,Mundka,True,95.83333333333334
+Pollutants 2017-2026/Mundka/Raw_Data_2018_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1561,Mundka,True,59.36453576864536
+Pollutants 2017-2026/Mundka/Raw_Data_2019_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1561,Mundka,True,22.83913622526636
+Pollutants 2017-2026/Mundka/Raw_Data_2020_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1561,Mundka,True,25.166970248937464
+Pollutants 2017-2026/Mundka/Raw_Data_2021_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1561,Mundka,True,26.177701674277014
+Pollutants 2017-2026/Mundka/Raw_Data_2022_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1561,Mundka,True,24.05013318112633
+Pollutants 2017-2026/Mundka/Raw_Data_2023_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1561,Mundka,True,24.845890410958905
+Pollutants 2017-2026/Mundka/Raw_Data_2024_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1561,Mundka,True,22.98212659380692
+Pollutants 2017-2026/Mundka/Raw_Data_2025_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1561,Mundka,True,22.574200913242013
+Pollutants 2017-2026/Mundka/Raw_Data_2026_site_1561_mundka_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1561,Mundka,True,14.659859283625734
+Pollutants 2017-2026/NIH Narela/Raw_Data_2026_site_100423_nih_narela_delhi_dpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100423,NIH Narela,True,64.05129928315412
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2009_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2009-01-01,2009-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,82.73068873668188
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2010_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2010-01-01,2010-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,51.50684931506849
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2011_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2011-01-01,2011-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,51.931126331811264
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2012_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,59.210401487553135
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2013_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,52.974219939117205
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2014_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2014-01-01,2014-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,47.79252283105023
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2015_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,50.84474885844749
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2016_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,57.565839404978746
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2017_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,60.04994292237442
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2018_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,37.11282343987824
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2019_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,37.20890410958904
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2020_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,35.345514571949
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2021_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,30.26921613394216
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2022_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,27.868626331811264
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2023_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,26.845034246575334
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2024_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,26.61942167577413
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2025_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_115,NSIT Dwarka,True,26.71851217656012
+Pollutants 2017-2026/NSIT Dwarka/Raw_Data_2026_site_115_nsit_dwarka_delhi_cpcb_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_115,NSIT Dwarka,True,29.002192982456144
+Pollutants 2017-2026/NSUT Jaffarpur/Raw_Data_2025_site_6077_nsut_jaffarpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_6077,NSUT Jaffarpur,True,95.83333333333334
+Pollutants 2017-2026/NSUT Jaffarpur/Raw_Data_2026_site_6077_nsut_jaffarpur_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_6077,NSUT Jaffarpur,True,31.09409265350877
+Pollutants 2017-2026/Naafagarh/Raw_Data_2017_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1427,Naafagarh,True,95.83333333333334
+Pollutants 2017-2026/Naafagarh/Raw_Data_2018_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1427,Naafagarh,True,29.022070015220702
+Pollutants 2017-2026/Naafagarh/Raw_Data_2019_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1427,Naafagarh,True,24.926750380517504
+Pollutants 2017-2026/Naafagarh/Raw_Data_2020_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1427,Naafagarh,True,28.799996205221618
+Pollutants 2017-2026/Naafagarh/Raw_Data_2021_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1427,Naafagarh,True,24.346936834094368
+Pollutants 2017-2026/Naafagarh/Raw_Data_2022_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1427,Naafagarh,True,26.102549467275495
+Pollutants 2017-2026/Naafagarh/Raw_Data_2023_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1427,Naafagarh,True,24.58856544901065
+Pollutants 2017-2026/Naafagarh/Raw_Data_2024_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1427,Naafagarh,True,24.04371584699453
+Pollutants 2017-2026/Naafagarh/Raw_Data_2025_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1427,Naafagarh,True,23.18588280060883
+Pollutants 2017-2026/Naafagarh/Raw_Data_2026_site_1427_najafgarh_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1427,Naafagarh,True,15.485083150584796
+Pollutants 2017-2026/Nangloi/Raw_Data_2026_site_100422_nangloidelhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100422,Nangloi,True,63.39045698924731
+Pollutants 2017-2026/Narela/Raw_Data_2017_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1426,Narela,True,95.83333333333334
+Pollutants 2017-2026/Narela/Raw_Data_2018_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1426,Narela,True,29.27796803652968
+Pollutants 2017-2026/Narela/Raw_Data_2019_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1426,Narela,True,23.079813546423136
+Pollutants 2017-2026/Narela/Raw_Data_2020_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1426,Narela,True,26.066807073466908
+Pollutants 2017-2026/Narela/Raw_Data_2021_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1426,Narela,True,24.14240867579909
+Pollutants 2017-2026/Narela/Raw_Data_2022_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1426,Narela,True,22.720700152207
+Pollutants 2017-2026/Narela/Raw_Data_2023_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1426,Narela,True,23.387081430745816
+Pollutants 2017-2026/Narela/Raw_Data_2024_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1426,Narela,True,23.28333712811172
+Pollutants 2017-2026/Narela/Raw_Data_2025_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1426,Narela,True,22.01008371385084
+Pollutants 2017-2026/Narela/Raw_Data_2026_site_1426_narela_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1426,Narela,True,14.703262061403509
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2017_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,95.83333333333334
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2018_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,29.824961948249623
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2019_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,23.23106925418569
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2020_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,23.807965239829997
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2021_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,24.372621765601217
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2022_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,23.19777397260273
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2023_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,23.76664764079148
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2024_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,21.77491272009714
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2025_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1429,Nehru Nagar,True,21.61624809741248
+Pollutants 2017-2026/Nehru Nagar/Raw_Data_2026_site_1429_nehru_nagar_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1429,Nehru Nagar,True,13.859192251461993
+Pollutants 2017-2026/North Campus/Raw_Data_2017_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_105,North Campus,True,82.78681506849314
+Pollutants 2017-2026/North Campus/Raw_Data_2018_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_105,North Campus,True,57.319729832572285
+Pollutants 2017-2026/North Campus/Raw_Data_2019_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_105,North Campus,True,60.62024353120245
+Pollutants 2017-2026/North Campus/Raw_Data_2020_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_105,North Campus,True,59.26732316332727
+Pollutants 2017-2026/North Campus/Raw_Data_2021_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_105,North Campus,True,56.85835235920852
+Pollutants 2017-2026/North Campus/Raw_Data_2022_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_105,North Campus,True,55.563165905631664
+Pollutants 2017-2026/North Campus/Raw_Data_2023_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_105,North Campus,True,59.29984779299847
+Pollutants 2017-2026/North Campus/Raw_Data_2024_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_105,North Campus,True,55.25719110503946
+Pollutants 2017-2026/North Campus/Raw_Data_2025_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_105,North Campus,True,61.59056316590562
+Pollutants 2017-2026/North Campus/Raw_Data_2026_site_105_north_campus_du_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_105,North Campus,True,71.70595760233918
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2017_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,95.83333333333334
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2018_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,31.39554794520548
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2019_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,22.76636225266362
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2020_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,22.651032179720705
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2021_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,23.008942161339423
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2022_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,21.619101978691017
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2023_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,23.2353500761035
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2024_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,21.92006299332119
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2025_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,23.116438356164384
+Pollutants 2017-2026/Okhla Phase-2/Raw_Data_2026_site_1428_okhla_phase2_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1428,Okhla Phase-2,True,14.687271564327489
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2017_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,95.83333333333334
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2018_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,29.256088280060883
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2019_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,22.461472602739725
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2020_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,24.154238767455983
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2021_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,23.660102739726028
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2022_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,22.836757990867586
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2023_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,23.702910958904116
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2024_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,22.565175318761383
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2025_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,23.09360730593607
+Pollutants 2017-2026/Patrpar Ganj/Raw_Data_2026_site_1431_patparganj_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1431,Patrpar Ganj,True,15.254934210526317
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2009_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,0,25,,,empty/header only,site_125,Punjabi Bagh,True,
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2010_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,0,25,,,empty/header only,site_125,Punjabi Bagh,True,
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2011_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,5880,25,2011-05-01,2011-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,62.21797052154196
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2012_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,46.50738084395872
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2013_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,83.0997907153729
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2014_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2014-01-01,2014-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,95.83333333333334
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2015_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,50.78053652968036
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2016_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,36.12629022465088
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2017_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,65.87281202435312
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2018_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,26.348458904109588
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2019_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,27.90192161339421
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2020_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,30.31316408621737
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2021_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,27.167998477929988
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2022_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,23.4593797564688
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2023_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,28.28434170471841
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2024_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,33.34282027929569
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2025_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_125,Punjabi Bagh,True,36.3013698630137
+Pollutants 2017-2026/Punjabi Bagh/Raw_Data_2026_site_125_punjabi_bagh_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_125,Punjabi Bagh,True,39.19899031432749
+Pollutants 2017-2026/Pusa/Raw_Data_2017_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1563,Pusa,True,95.83333333333334
+Pollutants 2017-2026/Pusa/Raw_Data_2018_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1563,Pusa,True,59.971936834094365
+Pollutants 2017-2026/Pusa/Raw_Data_2019_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1563,Pusa,True,22.53947869101979
+Pollutants 2017-2026/Pusa/Raw_Data_2020_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1563,Pusa,True,30.679360200364297
+Pollutants 2017-2026/Pusa/Raw_Data_2021_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1563,Pusa,True,23.892218417047182
+Pollutants 2017-2026/Pusa/Raw_Data_2022_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1563,Pusa,True,24.5552701674277
+Pollutants 2017-2026/Pusa/Raw_Data_2023_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1563,Pusa,True,24.97954718417047
+Pollutants 2017-2026/Pusa/Raw_Data_2024_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1563,Pusa,True,22.68186475409836
+Pollutants 2017-2026/Pusa/Raw_Data_2025_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1563,Pusa,True,22.965658295281585
+Pollutants 2017-2026/Pusa/Raw_Data_2026_site_1563_pusa_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1563,Pusa,True,14.87002010233918
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2017_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,83.35616438356163
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2018_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,55.31535388127854
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2019_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,55.15934170471842
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2020_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,59.62498102610808
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2021_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,64.35787671232876
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2022_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,62.333999238965
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2023_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,70.17598934550989
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2024_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,67.15429568913174
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2025_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_107,Pusa - IITM,True,66.96775114155251
+Pollutants 2017-2026/Pusa - IITM/Raw_Data_2026_site_107_pusa_delhi_iitm_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_107,Pusa - IITM,True,73.04573282163743
+Pollutants 2017-2026/R K Puram/Raw_Data_2009_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,0,25,,,empty/header only,site_124,R K Puram,True,
+Pollutants 2017-2026/R K Puram/Raw_Data_2010_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,0,25,,,empty/header only,site_124,R K Puram,True,
+Pollutants 2017-2026/R K Puram/Raw_Data_2011_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,5880,25,2011-05-01,2011-12-31 23:00:00,hourly,site_124,R K Puram,True,65.45422335600907
+Pollutants 2017-2026/R K Puram/Raw_Data_2012_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_124,R K Puram,True,51.38319672131148
+Pollutants 2017-2026/R K Puram/Raw_Data_2013_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_124,R K Puram,True,83.328101217656
+Pollutants 2017-2026/R K Puram/Raw_Data_2015_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_124,R K Puram,True,47.52520928462709
+Pollutants 2017-2026/R K Puram/Raw_Data_2016_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_124,R K Puram,True,29.13109061930783
+Pollutants 2017-2026/R K Puram/Raw_Data_2017_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_124,R K Puram,True,34.016837899543376
+Pollutants 2017-2026/R K Puram/Raw_Data_2018_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_124,R K Puram,True,27.90620243531203
+Pollutants 2017-2026/R K Puram/Raw_Data_2019_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_124,R K Puram,True,37.57753044140031
+Pollutants 2017-2026/R K Puram/Raw_Data_2020_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_124,R K Puram,True,36.26385094110504
+Pollutants 2017-2026/R K Puram/Raw_Data_2021_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_124,R K Puram,True,35.64830669710808
+Pollutants 2017-2026/R K Puram/Raw_Data_2022_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_124,R K Puram,True,31.21480213089802
+Pollutants 2017-2026/R K Puram/Raw_Data_2023_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_124,R K Puram,True,35.21927321156773
+Pollutants 2017-2026/R K Puram/Raw_Data_2024_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_124,R K Puram,True,23.58834244080145
+Pollutants 2017-2026/R K Puram/Raw_Data_2025_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_124,R K Puram,True,22.70500380517504
+Pollutants 2017-2026/R K Puram/Raw_Data_2026_site_124_r_k_puram_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_124,R K Puram,True,25.39576480263157
+Pollutants 2017-2026/Rohini/Raw_Data_2017_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1430,Rohini,True,95.83333333333334
+Pollutants 2017-2026/Rohini/Raw_Data_2018_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1430,Rohini,True,32.05812404870624
+Pollutants 2017-2026/Rohini/Raw_Data_2019_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1430,Rohini,True,27.06763698630137
+Pollutants 2017-2026/Rohini/Raw_Data_2020_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1430,Rohini,True,25.80828779599271
+Pollutants 2017-2026/Rohini/Raw_Data_2021_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1430,Rohini,True,27.43578767123288
+Pollutants 2017-2026/Rohini/Raw_Data_2022_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1430,Rohini,True,29.706525875190252
+Pollutants 2017-2026/Rohini/Raw_Data_2023_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1430,Rohini,True,32.84484398782344
+Pollutants 2017-2026/Rohini/Raw_Data_2024_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1430,Rohini,True,22.75633727990285
+Pollutants 2017-2026/Rohini/Raw_Data_2025_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1430,Rohini,True,22.012937595129376
+Pollutants 2017-2026/Rohini/Raw_Data_2026_site_1430_rohini_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1430,Rohini,True,13.44515259502924
+Pollutants 2017-2026/Shadipur/Raw_Data_2009_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2009-01-01,2009-12-31 23:00:00,hourly,site_113,Shadipur,True,76.40981735159818
+Pollutants 2017-2026/Shadipur/Raw_Data_2010_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2010-01-01,2010-12-31 23:00:00,hourly,site_113,Shadipur,True,60.240201674277024
+Pollutants 2017-2026/Shadipur/Raw_Data_2011_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2011-01-01,2011-12-31 23:00:00,hourly,site_113,Shadipur,True,48.29242770167428
+Pollutants 2017-2026/Shadipur/Raw_Data_2012_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_113,Shadipur,True,55.04088873709775
+Pollutants 2017-2026/Shadipur/Raw_Data_2013_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_113,Shadipur,True,47.7535197869102
+Pollutants 2017-2026/Shadipur/Raw_Data_2014_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2014-01-01,2014-12-31 23:00:00,hourly,site_113,Shadipur,True,46.679509132420094
+Pollutants 2017-2026/Shadipur/Raw_Data_2015_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_113,Shadipur,True,43.417998477929984
+Pollutants 2017-2026/Shadipur/Raw_Data_2016_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_113,Shadipur,True,50.21819975713419
+Pollutants 2017-2026/Shadipur/Raw_Data_2017_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_113,Shadipur,True,53.82372526636225
+Pollutants 2017-2026/Shadipur/Raw_Data_2018_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_113,Shadipur,True,33.79804033485541
+Pollutants 2017-2026/Shadipur/Raw_Data_2019_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_113,Shadipur,True,34.14098173515982
+Pollutants 2017-2026/Shadipur/Raw_Data_2020_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_113,Shadipur,True,31.271345628415297
+Pollutants 2017-2026/Shadipur/Raw_Data_2021_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_113,Shadipur,True,30.650209284627092
+Pollutants 2017-2026/Shadipur/Raw_Data_2022_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_113,Shadipur,True,27.388222983257236
+Pollutants 2017-2026/Shadipur/Raw_Data_2023_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_113,Shadipur,True,27.15515601217656
+Pollutants 2017-2026/Shadipur/Raw_Data_2024_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_113,Shadipur,True,26.628434274438373
+Pollutants 2017-2026/Shadipur/Raw_Data_2025_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_113,Shadipur,True,28.503614916286143
+Pollutants 2017-2026/Shadipur/Raw_Data_2026_site_113_shadipur_delhi_cpcb_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_113,Shadipur,True,23.64937408625731
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2017_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,95.83333333333334
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2018_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,59.16428843226789
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2019_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,22.762081430745816
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2020_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,23.04521478445659
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2021_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,22.63080289193303
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2022_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,22.442922374429223
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2023_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,23.51978691019787
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2024_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,22.785272465088035
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2025_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,23.75
+Pollutants 2017-2026/Sir Aurobindo Marg/Raw_Data_2026_site_1562_sri_aurobindo_marg_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1562,Sir Aurobindo Marg,True,13.899739583333334
+Pollutants 2017-2026/Sirifort/Raw_Data_2009_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2009-01-01,2009-12-31 23:00:00,hourly,site_119,Sirifort,True,71.65477549467275
+Pollutants 2017-2026/Sirifort/Raw_Data_2010_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2010-01-01,2010-12-31 23:00:00,hourly,site_119,Sirifort,True,79.95861872146119
+Pollutants 2017-2026/Sirifort/Raw_Data_2011_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2011-01-01,2011-12-31 23:00:00,hourly,site_119,Sirifort,True,85.35673515981735
+Pollutants 2017-2026/Sirifort/Raw_Data_2012_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8784,25,2012-01-01,2012-12-31 23:00:00,hourly,site_119,Sirifort,True,95.83333333333334
+Pollutants 2017-2026/Sirifort/Raw_Data_2013_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2013-01-01,2013-12-31 23:00:00,hourly,site_119,Sirifort,True,95.83333333333334
+Pollutants 2017-2026/Sirifort/Raw_Data_2014_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2014-01-01,2014-12-31 23:00:00,hourly,site_119,Sirifort,True,95.83333333333334
+Pollutants 2017-2026/Sirifort/Raw_Data_2015_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2015-01-01,2015-12-31 23:00:00,hourly,site_119,Sirifort,True,95.83333333333334
+Pollutants 2017-2026/Sirifort/Raw_Data_2016_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8784,25,2016-01-01,2016-12-31 23:00:00,hourly,site_119,Sirifort,True,89.65401108075288
+Pollutants 2017-2026/Sirifort/Raw_Data_2017_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_119,Sirifort,True,63.78091704718417
+Pollutants 2017-2026/Sirifort/Raw_Data_2018_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_119,Sirifort,True,44.18759512937595
+Pollutants 2017-2026/Sirifort/Raw_Data_2019_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_119,Sirifort,True,21.51350837138509
+Pollutants 2017-2026/Sirifort/Raw_Data_2020_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_119,Sirifort,True,21.77064359441409
+Pollutants 2017-2026/Sirifort/Raw_Data_2021_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_119,Sirifort,True,31.490201674277014
+Pollutants 2017-2026/Sirifort/Raw_Data_2022_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_119,Sirifort,True,32.50951293759513
+Pollutants 2017-2026/Sirifort/Raw_Data_2023_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_119,Sirifort,True,38.02035768645358
+Pollutants 2017-2026/Sirifort/Raw_Data_2024_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_119,Sirifort,True,31.548364450516093
+Pollutants 2017-2026/Sirifort/Raw_Data_2025_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_119,Sirifort,True,24.763603500761032
+Pollutants 2017-2026/Sirifort/Raw_Data_2026_site_119_sirifort_delhi_cpcb_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_119,Sirifort,True,16.531318530701753
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2017_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,95.83333333333334
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2018_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,29.69891552511416
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2019_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,23.117865296803654
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2020_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,25.752789162112933
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2021_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,23.565449010654493
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2022_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,23.327625570776256
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2023_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,27.264554794520546
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2024_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,31.05646630236794
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2025_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1432,Sonia Vihar,True,25.243531202435317
+Pollutants 2017-2026/Sonia Vihar/Raw_Data_2026_site_1432_sonia_vihar_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1432,Sonia Vihar,True,20.492964181286556
+Pollutants 2017-2026/Talkatora Garden/Raw_Data_2025_site_6081_talkatora_garden_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_6081,Talkatora Garden,True,95.83333333333334
+Pollutants 2017-2026/Talkatora Garden/Raw_Data_2026_site_6081_talkatora_garden_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_6081,Talkatora Garden,True,31.954724049707607
+Pollutants 2017-2026/Tikri Kalan/Raw_Data_2026_site_100417_tikri_kalan_delhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100417,Tikri Kalan,True,66.50425627240143
+Pollutants 2017-2026/Uttam Nagar/Raw_Data_2026_site_100416_uttam_nagar_delhidpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100416,Uttam Nagar,True,67.0306899641577
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2017_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,95.83333333333334
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2018_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,30.802416286149164
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2019_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,24.4339802130898
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2020_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,22.99351092896175
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2021_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,25.177891933028924
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2022_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,23.876046423135463
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2023_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,25.441875951293763
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2024_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,22.94417880995749
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2025_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1435,Vivek Vihar,True,23.345700152207
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2026_site_100411_vasundhara_enclave_delhi_dpcc_1Hr.csv,pollutants,744,25,2026-10-01,2026-10-31 23:00:00,hourly,site_100411,Vivek Vihar,True,63.32885304659498
+Pollutants 2017-2026/Vivek Vihar/Raw_Data_2026_site_1435_vivek_vihar_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1435,Vivek Vihar,True,15.37372076023392
+Pollutants 2017-2026/Wazirpur/Raw_Data_2017_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2017-01-01,2017-12-31 23:00:00,hourly,site_1434,Wazirpur,True,95.83333333333334
+Pollutants 2017-2026/Wazirpur/Raw_Data_2018_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2018-01-01,2018-12-31 23:00:00,hourly,site_1434,Wazirpur,True,31.18103120243531
+Pollutants 2017-2026/Wazirpur/Raw_Data_2019_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2019-01-01,2019-12-31 23:00:00,hourly,site_1434,Wazirpur,True,23.433694824961947
+Pollutants 2017-2026/Wazirpur/Raw_Data_2020_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8784,25,2020-01-01,2020-12-31 23:00:00,hourly,site_1434,Wazirpur,True,24.193609593199756
+Pollutants 2017-2026/Wazirpur/Raw_Data_2021_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2021-01-01,2021-12-31 23:00:00,hourly,site_1434,Wazirpur,True,25.86615296803653
+Pollutants 2017-2026/Wazirpur/Raw_Data_2022_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2022-01-01,2022-12-31 23:00:00,hourly,site_1434,Wazirpur,True,23.860350076103497
+Pollutants 2017-2026/Wazirpur/Raw_Data_2023_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2023-01-01,2023-12-31 23:00:00,hourly,site_1434,Wazirpur,True,28.128805175038053
+Pollutants 2017-2026/Wazirpur/Raw_Data_2024_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8784,25,2024-01-01,2024-12-31 23:00:00,hourly,site_1434,Wazirpur,True,24.72108378870674
+Pollutants 2017-2026/Wazirpur/Raw_Data_2025_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,8760,25,2025-01-01,2025-12-31 23:00:00,hourly,site_1434,Wazirpur,True,22.84294140030441
+Pollutants 2017-2026/Wazirpur/Raw_Data_2026_site_1434_wazirpur_delhi_dpcc_1Hr.csv,pollutants,7296,25,2026-01-01,2026-10-31 23:00:00,hourly,site_1434,Wazirpur,True,14.136170504385968
+Weather 2017-2026/Alipur_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Alipur,,True,
+Weather 2017-2026/Anand_Vihar_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Anand_Vihar,,True,
+Weather 2017-2026/Ashok_Vihar_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Ashok_Vihar,,True,
+Weather 2017-2026/Aya_Nagar_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Aya_Nagar,,True,
+Weather 2017-2026/Badarpur_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Badarpur,,True,
+Weather 2017-2026/Bawana_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Bawana,,True,
+Weather 2017-2026/Burari_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Burari,,True,
+Weather 2017-2026/Burari_Crossing_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Burari_Crossing,,True,
+Weather 2017-2026/CRRI_Mathura_Road_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,CRRI_Mathura_Road,,True,
+Weather 2017-2026/Cantonment_Area_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Cantonment_Area,,True,
+Weather 2017-2026/Chandni_Chowk_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Chandni_Chowk,,True,
+Weather 2017-2026/Chhawla_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Chhawla,,True,
+Weather 2017-2026/Commonwealth_Sports_Complex_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Commonwealth_Sports_Complex,,True,
+Weather 2017-2026/DTU_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,DTU,,True,
+Weather 2017-2026/Dr_Karni_Singh_Shooting_Range_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Dr_Karni_Singh_Shooting_Range,,True,
+Weather 2017-2026/Dwarka_Sector_8_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Dwarka_Sector_8,,True,
+Weather 2017-2026/Ghoga_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Ghoga,,True,
+Weather 2017-2026/Ghummanhera_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Ghummanhera,,True,
+Weather 2017-2026/IGI_Airport_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,IGI_Airport,,True,
+Weather 2017-2026/IHBAS_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,IHBAS,,True,
+Weather 2017-2026/IIT_Delhi_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,IIT_Delhi,,True,
+Weather 2017-2026/ITO_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,ITO,,True,
+Weather 2017-2026/JNU_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,JNU,,True,
+Weather 2017-2026/Jahangirpuri_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Jahangirpuri,,True,
+Weather 2017-2026/Jawaharlal_Nehru_Stadium_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Jawaharlal_Nehru_Stadium,,True,
+Weather 2017-2026/Jharoda_Kalan_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Jharoda_Kalan,,True,
+Weather 2017-2026/Karala_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Karala,,True,
+Weather 2017-2026/Lodhi_Road_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Lodhi_Road,,True,
+Weather 2017-2026/Maidan_Garhi_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Maidan_Garhi,,True,
+Weather 2017-2026/Major_Dhyan_Chand_National_Stadium_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Major_Dhyan_Chand_National_Stadium,,True,
+Weather 2017-2026/Mandir_Marg_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Mandir_Marg,,True,
+Weather 2017-2026/Mundka_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Mundka,,True,
+Weather 2017-2026/NIH_Narela_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,NIH_Narela,,True,
+Weather 2017-2026/NSIT_Dwarka_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,NSIT_Dwarka,,True,
+Weather 2017-2026/NSUT_Jaffarpur_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,NSUT_Jaffarpur,,True,
+Weather 2017-2026/Najafgarh_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Najafgarh,,True,
+Weather 2017-2026/Nangloi_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Nangloi,,True,
+Weather 2017-2026/Narela_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Narela,,True,
+Weather 2017-2026/Nehru_Nagar_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Nehru_Nagar,,True,
+Weather 2017-2026/North_Campus_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,North_Campus,,True,
+Weather 2017-2026/Okhla_Phase_2_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Okhla_Phase_2,,True,
+Weather 2017-2026/Patparganj_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Patparganj,,True,
+Weather 2017-2026/Punjabi_Bagh_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Punjabi_Bagh,,True,
+Weather 2017-2026/Pusa_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Pusa,,True,
+Weather 2017-2026/Pusa_West_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Pusa_West,,True,
+Weather 2017-2026/RK_Puram_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,RK_Puram,,True,
+Weather 2017-2026/Rohini_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Rohini,,True,
+Weather 2017-2026/Safdarjung_Enclave_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Safdarjung_Enclave,,True,
+Weather 2017-2026/Shadipur_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Shadipur,,True,
+Weather 2017-2026/Sirifort_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Sirifort,,True,
+Weather 2017-2026/Sonia_Vihar_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Sonia_Vihar,,True,
+Weather 2017-2026/Sri_Aurobindo_Marg_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Sri_Aurobindo_Marg,,True,
+Weather 2017-2026/Talkatora_Garden_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Talkatora_Garden,,True,
+Weather 2017-2026/Tikri_Kalan_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Tikri_Kalan,,True,
+Weather 2017-2026/Uttam_Nagar_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Uttam_Nagar,,True,
+Weather 2017-2026/Vasundhara_Enclave_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Vasundhara_Enclave,,True,
+Weather 2017-2026/Vivek_Vihar_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Vivek_Vihar,,True,
+Weather 2017-2026/Wazirpur_2017_2026.csv,weather,86184,24,2017-01-01 00:00:00,2026-10-31 23:00:00,hourly; parameter-specific coverage,Wazirpur,,True,

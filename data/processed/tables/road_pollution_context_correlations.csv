@@ -1,0 +1,3 @@
+feature,stations,spearman_pm25,qualification
+major_road_length_1km_unique_geometry_m,32,0.07407407905449447,"Exploratory spatial context; unverified coordinates, no traffic counts, no causal attribution"
+nearest_major_road_m,32,0.02382697947214076,"Exploratory spatial context; unverified coordinates, no traffic counts, no causal attribution"

@@ -1,0 +1,5 @@
+parameter,matched_site_years,years,winter_minus_monsoon,year_bootstrap_ci_low,year_bootstrap_ci_high,wilcoxon_year_p_exploratory,caveat
+pm25,285,9,126.33061595929252,120.23835107516844,133.25120160201004,0.00390625,Year-level resampling; adjacent-year dependence remains possible
+pm10,273,9,163.39665437854842,151.6992874127707,175.59399672108268,0.00390625,Year-level resampling; adjacent-year dependence remains possible
+no2,277,9,22.715838332045635,18.416028693513883,25.98576943665997,0.00390625,Year-level resampling; adjacent-year dependence remains possible
+o3,281,9,-2.2432760309563378,-5.2362833395072474,0.9999599818971114,0.25,Year-level resampling; adjacent-year dependence remains possible

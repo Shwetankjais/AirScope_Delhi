@@ -1,0 +1,13 @@
+# Cleaning log and provenance decisions
+    
+    This final log replaces the Phase 0 no-cleaning checkpoint. `Cleaning_Actions.csv` records actual changes and quarantine row counts. Every original non-secret project source is preserved byte-for-byte in `data/original`, with execution-time hashes in `Execution_Source_Manifest.csv`.
+    
+    1. Keep source timestamps and all hourly source rows in the cleaned layer. Coerce numeric types; use separate original-missing and invalid-value bit masks. There was no silent unit conversion for pressure, NOx or the model smog score.
+    2. Quarantine the complete Badarpur folder as an identical Aya Nagar-labelled representative series, and Maidan Gharhi as duplicated site 5395 Lodhi Road. These exclusions apply to analysis only. Both original/cleaned copies remain. The retained representative does not certify physical-site provenance.
+    3. Preserve 52 retained source folders as 54 distinct site IDs. Multiple IDs at a named station are not silently joined across possible replacement/relocation changes.
+    4. Set physically invalid negative pollutant, horizontal speed, rainfall or radiation values to missing; bound RH to 0–100, direction to 0–360 and temperature to a deliberately broad -50–65°C envelope. High but plausible values remain. Exact per-file actions are in CSV; the sole observed numeric invalidity was a negative TOT-RF value.
+    5. Retain signed vertical wind, genuine pollution extremes, PM2.5 > PM10 pairs, source-ceiling values, >55°C temperature-review flags and ambiguous pressure. IQR, z-score and rolling median/MAD flags never automatically delete extremes. Exclude pressure and cumulative TOT-RF from principal meteorological models pending definitions.
+    6. Main EDA is observed-only. Optional PM2.5/PM10 sensitivity layers fill interior gaps ≤2 hours only within one site, with observed endpoints and station-specific masked-gap validation against forward fill/station median. No leading structural missingness, long gaps, different stations or future years are imputed. Actual imputed/originally-missing indicators are stored beside each value.
+    7. Model weather stays separate from station observations. Basic weather spans 2017–Oct 2026; air composition starts 4 Aug 2022. Constant fog/mist flags and unverified derived scores are retained, but not treated as independent fog/inversion evidence.
+    8. Population and emissions retain their actual epochs. Spatial-context geometry de-duplication changes only recomputed road features, not source road files. No emissions unit or population cell footprint is invented.
+    
